@@ -14,3 +14,4 @@ NIM  <fill your student identification number>
 4. See the example by [feeskuom](https://github.com/feeskoum) on [10201945](10201945) folder. \
   Above you can see that there is a folder with a NIM as an example. \
   ![](answer-folders.png)
+5. You will make the second folder with your NIM and put your answer in it along with a `README.md` file.
