@@ -1,2 +1,2 @@
-NAME : Dhika Arya R. B.
+NAME : Dhika Arya R. B. <br />
 NIM  : 10218010
