@@ -12,3 +12,4 @@ hello world 2 time
 hello world 3 time
 ```
 Tested in idle python 3.9
+![alt text](https://github.com/realdhikaarya/fi3201-01-2021-2/assignments/02/10218010/proof.jpg?raw=true)
