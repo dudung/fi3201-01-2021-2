@@ -9,4 +9,4 @@ Assignment for FI3201 Computational Physics Class 01 Semester 2 Year 2021/2022
   ![](images/branch-is-behind-main.png)
 3. Resolve this or update your local copy using the ![](images/fetch-upstream-button.png) button and choose ![](images/fetch-and-merge-button.png), then you will get \
   ![](images/branch-is-up-to-date-with-main.png)
-4. Do not use ![](images/contribute-button.png). This will be used only once at the end of semester. You will be notified when to do this.
+4. Do not use ![](images/contribute-button.png). This will be used only once at the end of semester for merging all changes in your local reposity to the main. You will be notified when to do this.
