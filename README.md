@@ -13,3 +13,8 @@ Assignment for FI3201 Computational Physics Class 01 Semester 2 Year 2021/2022
 
 ## work with the assignments
 1. Navigate to [assignments folder](assignments).
+2. Choose assigment to work with, e.g 02 \
+  ![](images/choosing-assignment.png)
+3. Navigate to the folder
+  ![](images/assigment-instruction.png)
+  and read the instruction.
