@@ -15,6 +15,8 @@ Assignment for FI3201 Computational Physics Class 01 Semester 2 Year 2021/2022
 1. Navigate to [assignments folder](assignments).
 2. Choose assigment to work with, e.g [02](assignments/02) \
   ![](images/choosing-assignment.png)
-3. Navigate to the folder
-  ![](images/assigment-instruction.png)
+3. Navigate to the folder \
+  ![](images/assigment-instruction.png) \
   and read the instruction.
+4. Make a folder with your NIM, copy the `README.md` containing the instruction, and edit it with your answer. \
+  ![](images/assigment-answer.png)
