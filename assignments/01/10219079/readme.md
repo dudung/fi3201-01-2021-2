@@ -16,6 +16,6 @@ NIM  <fill your student identification number>
   ![](answer-folders.png)
 6. You will make the second folder with your NIM and put your answer in it along with a `README.md` file.
 
-##Answer
+## answer
 NAME <Adam Raihan Ramadhani>
 NIM  <10219079>
