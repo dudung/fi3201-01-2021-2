@@ -1,11 +1,11 @@
 # Assignment 02
 What is the result of the following code? <br />
-```vscode
+```python
 for i in range (4):
   print ("hello world", i, "time")
 ```
 ## Answer
-```diff
+```
 hello world 0 time
 hello world 1 time
 hello world 2 time
