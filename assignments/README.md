@@ -2,4 +2,4 @@
 Collection of assigments to work with
 
 [`18-jan-22`](01) Make a `README.md` file and write name and student identification number in it. \
-[`18-jan-22`](02) Compile a simple Python code using online compiler, e.g. OneCompile.
+[`19-jan-22`](02) Compile a simple Python code using online compiler, e.g. OneCompile.
