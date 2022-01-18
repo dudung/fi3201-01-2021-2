@@ -11,4 +11,4 @@ NIM  <fill your student identification number>
 1. Just copy the above assigment and paste it to the `README.md` file.
 2. Make section with the name `## answer` and write your answer below it. 
 3. You will work with other assignments with the same way.
-4. See the example by feeskuom on [10201945](10201945) folder.
+4. See the example by [feeskuom](https://github.com/feeskoum) on [10201945](10201945) folder.
