@@ -22,4 +22,4 @@ Assignment for FI3201 Computational Physics Class 01 Semester 2 Year 2021/2022
   ![](images/assigment-answer.png)
 5. After that you will have notification that this branch (your local repository) is `n` commits a head of main ([dudung/fi3201-01-2021-2](https://github.com/dudung/fi3201-01-2021-2)) \
   ![](images/branch-is-ahead-of-main.png) \
-  and tt is ok and do nothing about it.
+  and it is ok and do nothing about it.
