@@ -7,3 +7,4 @@ Assignment for FI3201 Computational Physics Class 01 Semester 2 Year 2021/2022
   ![](images/forked-repository.png)
 2. Once the source is updated ([dudung/fi3201-01-2021-2](https://github.com/dudung/fi3201-01-2021-2)) it will appear that your repository (this branch) `n` commits behind main as follows \
   ![](images/branch-is-behind-main.png)
+3. Resolve this or update your local copy using the ![](images/fetch-upstream-button.png) button and choose ![](images/fetch-and-merge-button.png).
