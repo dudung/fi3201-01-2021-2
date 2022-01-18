@@ -23,3 +23,8 @@ Assignment for FI3201 Computational Physics Class 01 Semester 2 Year 2021/2022
 5. After that you will have notification that this branch (your local repository) is `n` commits a head of main ([dudung/fi3201-01-2021-2](https://github.com/dudung/fi3201-01-2021-2)) \
   ![](images/branch-is-ahead-of-main.png) \
   and it is ok and do nothing about it.
+
+## fecth upstream
+1. After work on an assignment, main might be modified for the next assignement and branch will be ahead (because you do the assigment) and behind (because main release new assignment) \
+  ![](images/branch-is-ahead-behind-main.png)
+2. 
