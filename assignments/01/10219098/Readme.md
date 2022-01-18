@@ -8,6 +8,6 @@ NIM  <fill your student identification number>
 ## Answer
 
 ```
-NAME: Aldian Nur Azmar
-NIM: 10219098
+NAME Aldian Nur Azmar
+NIM 10219098
 ```
