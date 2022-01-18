@@ -5,7 +5,7 @@ Create a new folder using your NIM and create a file named `README.md` in the fo
 NAME <fill your name>
 NIM  <fill your student identification number>
 ```
-## Answer
+## answer
 
 ```
 NAME Aldian Nur Azmar
