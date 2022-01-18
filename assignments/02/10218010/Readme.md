@@ -1,6 +1,6 @@
 # Assignment 02
 What is the result of the following code? <br />
-```python
+```vscode
 for i in range (4):
   print ("hello world", i, "time")
 ```
