@@ -13,4 +13,4 @@ NIM  <fill your student identification number>
 3. You will work with other assignments with the same way.
 4. See the example by [feeskuom](https://github.com/feeskoum) on [10201945](10201945) folder. \
   Above you can see that there is a folder with a NIM as an example. \
-  ![](answer-folders)
+  ![](answer-folders.png)
