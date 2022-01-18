@@ -27,4 +27,6 @@ Assignment for FI3201 Computational Physics Class 01 Semester 2 Year 2021/2022
 ## fecth upstream
 1. After work on an assignment, main might be modified for the next assignement and branch will be ahead (because you do the assigment) and behind (because main release new assignment) \
   ![](images/branch-is-ahead-behind-main.png)
-2. 
+2. Resolve this or update your local copy using the ![](images/fetch-upstream-button.png) button and choose ![](images/fetch-and-merge-button.png), then you will get \
+  ![](images/branch-is-ahead-of-main.png) \
+the ahead state due your work only.
