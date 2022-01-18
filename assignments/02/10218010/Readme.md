@@ -11,5 +11,5 @@ hello world 1 time
 hello world 2 time
 hello world 3 time
 ```
-Tested in idle python 3.9
+Tested in idle python 3.9.9
 ![alt text](https://github.com/realdhikaarya/fi3201-01-2021-2/blob/main/assignments/02/10218010/proof.jpg)
