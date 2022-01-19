@@ -1,3 +1,7 @@
+```
+Muhammad Ervandy Rachmat 
+10219101 
+```
 # assignment 02
 What is the results of following code?
 ```python
@@ -13,5 +17,5 @@ Hello world! 2 time
 Hello world! 3 time
 Hello world! 4 time
 
-Testes at OneCompiler 3xqt2znvy
+Tested at OneCompiler 3xqt2znvy
 ```
