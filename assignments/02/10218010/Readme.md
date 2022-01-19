@@ -1,6 +1,6 @@
 # Assignment 02
 What is the result of the following code? <br />
-```python
+```
 for i in [0, 1, 2, 3, 4]:
   print ("hello world", i, "time")
 ```
