@@ -26,6 +26,7 @@ Traceback (most recent call last):
 NameError: name 'char' is not defined
 ```
 Compiled at OneCompiler [link]( https://onecompiler.com/python/3xr4bz7rd ).
+
 <img src="answer_31.jpg" width="70%">
 
 ## question 2
@@ -44,6 +45,7 @@ Hasil modifikasi kode di atas adalah
 4:◻◻◻◻
 ```
 Compiled at OneCompiler [link]( https://onecompiler.com/python/3xr4crmsw ).
+
 <img src="answer_32.jpg" width="70%">
 
 ## question 3
@@ -61,13 +63,14 @@ Hasil modifikasi kode di atas adalah
 8:◼◼◼◼◼◼◼◼
 4:◼◼◼◼
 ```
-Compiled at OneCompiler [link]( https://onecompiler.com/python/3xr4d2uhy )
+Compiled at OneCompiler [link]( https://onecompiler.com/python/3xr4d2uhy ).
+
 <img src="answer_33.jpg" width="70%">
 
 ## question 4
 Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
-Kode di atas berfungsi untuk
-+ ..
-+ ..
+Kode di atas berfungsi untuk:
++ Mencetak setiap elemen dengan tipe integer basis 10, dari variabel NIM, yaitu NIM=[1,0,2,1,9,0,8,4]. Lalu, mencetak char1 atau ◻ sebanyak NIM[i].
++ Hal sama dilakukan pada question4. Tetapi, karakter yang dicetak adalah char2 atau ◼.
