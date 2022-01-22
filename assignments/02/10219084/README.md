@@ -14,3 +14,5 @@ Hello world! 3 time
 Hello world! 4 time
 ```
 Compiled at OneCompiler [link]( https://onecompiler.com/python/3xqzbaw4j ).
+
+![](answer_02.jpg)
