@@ -73,4 +73,4 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 ### answer 4
 Kode di atas berfungsi untuk:
 + Mencetak setiap elemen dengan tipe integer basis 10, dari variabel NIM, yaitu NIM=[1,0,2,1,9,0,8,4]. Lalu, mencetak char1 atau ◻ sebanyak NIM[i].
-+ Hal sama dilakukan pada question4. Tetapi, karakter yang dicetak adalah char2 atau ◼.
++ Hal sama dilakukan pada question3. Tetapi, karakter yang dicetak adalah char2 atau ◼.
