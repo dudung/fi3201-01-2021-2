@@ -26,4 +26,4 @@ Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di ata
 
 ### answer 2
 Hasil modifikasi kode di atas adalah
-![alt_text]()
+![alt_text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/03/10219098/computational%20physics_assignment%2003_char1.png)
