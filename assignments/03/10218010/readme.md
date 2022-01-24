@@ -1,4 +1,4 @@
-#Assignment 03
+# Assignment 03
 Digunakan kode sebagai berikut
 ```python
 import html #Mengimport module html, hanya dapat dilakukan bila sudah menginstall html dengan pip install html
@@ -12,19 +12,19 @@ for x in NIM: #fungsi for yang didefinisikan untuk setiap x didalam variabel NIM
     s += char #s digunakan sebagai substitusi variabel baru berdasarkan kode html yang diberikan (+= berarti menjumlahkan variabel dan menjadikan nilai s bernilai sebesar hasil penjumlahan tersebut)
   print(n, ':', s, sep='') #hasilnya akan berupa setiap character NIM yang ditulis secara vertikal kebawah sebanyak len dari NIM lalu ditambah character html yang diinginkan dan sebuah separator tertentu, disini adalah spasi atau tidak sama sekali
 ```
-#Jawaban 1
+# Jawaban 1
 Hasil dari koding tersebut adalah
 ![alt text](char.PNG)
 
-#Jawaban 2
+# Jawaban 2
 Hasil dari permintaan char1 adalah
 ![alt_text](char1.PNG)
 
-#Jawaban 3
+# Jawaban 3
 Hasil dari permintaan char2 adalah
 ![alt_text](char2.PNG)
 
-#Jawaban 4
+# Jawaban 4
 Kode diatas digunakan untuk
 ```
 Menampilkan character html unicode tertentu yang jumlahnya sama dengan masing-masing karakter dari NIM yang ada
