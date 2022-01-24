@@ -20,3 +20,10 @@ Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tam
 ### answer 1
 Hasil kode di atas adalah
 ![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/03/10219098/computational%20physics_assignment%2003_char.png)
+
+## question 2
+Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s +=`, jalankan dan tampilkan hasilnya.
+
+### answer 2
+Hasil modifikasi kode di atas adalah
+![alt_text]()
