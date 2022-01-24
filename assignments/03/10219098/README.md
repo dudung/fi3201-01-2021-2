@@ -20,5 +20,6 @@ Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tam
 ### answer 1
 Hasil kode di atas adalah
 ```
-![alt_text].(computational physics_assignment03_char.PNG)
+![alt text](computational physics_assignment03_char.PNG)
+![alt text]()
 ```
