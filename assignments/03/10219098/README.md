@@ -22,4 +22,3 @@ Hasil kode di atas adalah
 
 ![alt_text](computational physics_assignment 03_char.PNG)
 ![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/03/10219098/computational%20physics_assignment%2003_char.png)
-
