@@ -12,6 +12,5 @@ Hello world! 1 time
 Hello world! 2 time
 Hello world! 3 time
 Hello world! 4 time
-
-Proof at OneCompiler [3xrb2sd7n] (https://onecompiler.com/python/3xrb2sd7n)
 ```
+Proof at OneCompiler [3xrb2sd7n](https://onecompiler.com/python/3xrb2sd7n)
