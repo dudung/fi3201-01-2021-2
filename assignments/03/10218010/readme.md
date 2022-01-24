@@ -14,15 +14,15 @@ for x in NIM: #fungsi for yang didefinisikan untuk setiap x didalam variabel NIM
 ```
 #Jawaban 1
 Hasil dari koding tersebut adalah
-![alt text](char.png)
+![alt text](char.PNG)
 
 #Jawaban 2
 Hasil dari permintaan char1 adalah
-![alt_text](char1.png)
+![alt_text](char1.PNG)
 
 #Jawaban 3
 Hasil dari permintaan char2 adalah
-![alt_text](char2.png)
+![alt_text](char2.PNG)
 
 #Jawaban 4
 Kode diatas digunakan untuk
