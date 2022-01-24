@@ -21,3 +21,4 @@ Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tam
 Hasil kode di atas adalah
 ```
 ![alt text](computational physics_assignment03_char.PNG)
+```
