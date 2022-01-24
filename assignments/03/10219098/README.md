@@ -41,5 +41,5 @@ Jelaskan dengan singkat hal yang dihasilkan oleh kode yang diberikan.
 ### answer 4
 Kode di atas berfungsi untuk
 + Memvisualisasikan setiap karakter (angka) yang terdapat dalam NIM yang tertera dengan unicode tertentu,
-+ lalu etiap karakter (angka) yang terdapat dalam NIM yang tertera merepresentasikan jumlah unicode yang akan ditampilkan pada setiap karakternya.
++ lalu setiap karakter (angka) yang terdapat dalam NIM yang tertera merepresentasikan jumlah unicode yang akan ditampilkan pada setiap karakternya.
 + Jika karakter pertama pada NIM adalah angka '1', maka jumlah unicode yang akan ditampilkan hanya satu, lalu jika karakter kedua pada NIM adalah angka '0', maka tidak akan ada unicode yang ditampilkan pada keluarannya, dan seterusnya. 
