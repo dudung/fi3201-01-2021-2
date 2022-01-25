@@ -16,14 +16,14 @@ for x in NIM:
   ```
   ## Answer 1
   ```
-  1:◼
-  0:
-  2:◼◼
-  1:◼
-  8:◼◼◼◼◼◼◼◼
-  0:
-  0:
-  9:◼◼◼◼◼◼◼◼◼
+  NameError                                 Traceback (most recent call last)
+<ipython-input-8-d14d2814d4c4> in <module>
+      3   s = ''
+      4   for i in range(n):
+----> 5     s += char
+      6   print(n, ':', s, sep='')
+
+NameError: name 'char' is not defined
   ```
   Tested in python
   ![alt text](https://github.com/AkramAkbarAmin/fi3201-01-2021-2/blob/main/assignments/03/10218009_Assignment%203_Answer%20for%20question%201.png)
@@ -82,4 +82,4 @@ for x in NIM:
   9:◼◼◼◼◼◼◼◼◼
   ```
   Tested in python
-  ![alt text](https://github.com/AkramAkbarAmin/fi3201-01-2021-2/blob/main/assignments/03/10218009_Assignment%203_Answer%20for%20question%201.png)
+  ![alt text](https://github.com/AkramAkbarAmin/fi3201-01-2021-2/blob/main/assignments/03/10218009_Assignment%203_Answer%20for%20question%203.png)
