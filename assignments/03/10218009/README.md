@@ -43,6 +43,7 @@ for x in NIM:
   print(n, ':', s, sep='') 
   ```
   ## Answer 2
+  ```
   1:◻
   0:
   2:◻◻
