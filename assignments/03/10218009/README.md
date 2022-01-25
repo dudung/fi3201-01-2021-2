@@ -89,7 +89,7 @@ for x in NIM:
   ## Answer 4
   ```python
 import html #berfungsi untuk mengimport module html
-char1 = html.unescape('&#x25FB;') #kode untuk kotak berwarna putih
+char1 = html.unescape('&#x25FB;') #kode untuk kotak berwarna putih kosong
 char2 = html.unescape('&#x25FC;') #kode untuk kotak berwarna hitam
 NIM = '10218010' #string dalam Python adalah array byte yang mewakili karakter unicode.
 for x in NIM: #fungsi for mendefinisikan setiap x dalam variabel NIM
@@ -99,4 +99,4 @@ for x in NIM: #fungsi for mendefinisikan setiap x dalam variabel NIM
     s += char #s digunakan sebagai substitusi variabel baru berdasarkan kode html yang diberikan (+= berarti menjumlahkan variabel dan menjadikan nilai s bernilai sebesar hasil penjumlahan tersebut)
   print(n, ':', s, sep='') #hasilnya akan berupa setiap character NIM yang ditulis secara vertikal kebawah sebanyak len dari NIM lalu ditambah character html yang diinginkan dan sebuah separator tertentu
   
-  Dari kode diatas dengan, modifikasi kode yang diberikan dengan s += char diperoleh output yang error karena code 'char' tidak terdefinisi. Untuk modifikasi kode yang diberikan dengan s += char1 diperoleh output NIM sesuai urutan secara horizontal dan setiap angka NIM diwakilkan dengan kotak berwarna putih sesuai dengan jumlah angkanya. Untuk modifikasi kode yang diberikan dengan s += char2 diperoleh output NIM sesuai urutan secara horizontal dan setiap angka NIM diwakilkan dengan kotak berwarna hitam sesuai dengan jumlah angkanya.
+  Dari kode diatas dengan, modifikasi kode yang diberikan dengan s += char diperoleh output yang error karena kode 'char' tidak terdefinisi. Untuk modifikasi kode yang diberikan dengan s += char1 diperoleh output NIM sesuai urutan secara horizontal dan setiap angka NIM diwakilkan dengan kotak berwarna putih kosong sesuai dengan jumlah angkanya. Untuk modifikasi kode yang diberikan dengan s += char2 diperoleh output NIM sesuai urutan secara horizontal dan setiap angka NIM diwakilkan dengan kotak berwarna hitam sesuai dengan jumlah angkanya.
