@@ -26,7 +26,7 @@ Traceback (most recent call last):
     s += char
 NameError: name 'char' is not defined
 ```
-[Proof at OneCompiler](https://onecompiler.com/python/3xrg8dgfu)
+Proof at OneCompiler [3xrg8dgfu](https://onecompiler.com/python/3xrg8dgfu)
 
 ## question 2
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char1`, jalankan dan tampilkan hasilnya.
@@ -43,7 +43,7 @@ Hasil modifikasi kode di atas adalah
 7:◻◻◻◻◻◻◻
 9:◻◻◻◻◻◻◻◻◻
 ```
-[Proof at OneCompiler](https://onecompiler.com/python/3xrg8dgfu)
+Proof at OneCompiler [3xrg8dgfu](https://onecompiler.com/python/3xrg8dgfu)
 
 ## question 3
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char2`, jalankan dan tampilkan hasilnya.
@@ -60,7 +60,7 @@ Hasil modifikasi kode di atas adalah
 7:◼◼◼◼◼◼◼
 9:◼◼◼◼◼◼◼◼◼
 ```
-[Proof at OneCompiler](https://onecompiler.com/python/3xrg8dgfu)
+Proof at OneCompiler [3xrg8dgfu](https://onecompiler.com/python/3xrg8dgfu)
 
 ## question 4
 Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
