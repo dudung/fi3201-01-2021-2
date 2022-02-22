@@ -1,9 +1,9 @@
-# Ignore everything in this exercise folder
-*
+# Ignore everything below
+#*
+.gitignore
 
 # But not these files...
-!.gitignore
-!README.md
+#!README.md
 # etc...
 
 # ...even if they are in subdirectories
