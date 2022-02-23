@@ -8,4 +8,6 @@ Log activity of doing exercises
 [`15-feb-22`](quad_prog) Optimasi: quadratic programming.\
 [`15-feb-22`](slr) Simple linear regression: least square and gradient descent.
 
-['22-feb-22'](interpolasi) Interpolasi: linear & polynomial
+[`22-feb-22`](interpolasi) Interpolasi: linear & polynomial
+
+[`23-feb-22`](integrasi-numerik) Integrasi Numerik: metode persegi panjang, trapesium, simpson
