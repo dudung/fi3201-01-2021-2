@@ -61,3 +61,5 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 Kode di atas berfungsi untuk
 + char1 = berfungsi untuk menggantikan nomor NIM dengan representasi bentuk kotak yang tidak berisi atau kosong 
 + char1 = berfungsi untuk menggantikan nomor NIM dengan representasi bentuk kotak yang berisi
+
+Tested at OneCompiler [3xuvja7st](https://onecompiler.com/python/3xuvja7st)
