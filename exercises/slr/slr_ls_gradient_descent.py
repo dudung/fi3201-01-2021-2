@@ -96,3 +96,6 @@ writergif = animation.PillowWriter(fps=40)
 ani.save('exercises/slr/0267.gif', writer=writergif)
 
 print('Done')
+print('a =', a)
+print('b =', b)
+print('err =', err_text)
