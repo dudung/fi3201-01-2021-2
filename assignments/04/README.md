@@ -72,7 +72,7 @@ yang dapat diperoleh di <https://jakevdp.github.io/downloads/code/basic_animatio
 Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/> atau pada pertemuan kuliah terkait.
 
 ### answer 1
-Apakah sudah dibaca atau hadir pada kuliah?
+Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 ```
 ```
 
@@ -83,7 +83,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 Potongan kode yang perlu disisipkan adalah
 ```
 ```
-dan hasil berkas gifnya adalah
+dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to right]()
 
 
@@ -94,7 +94,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 Potongan kode yang perlu disisipkan adalah
 ```
 ```
-dan hasil berkas gifnya adalah
+dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left]()
 
 
@@ -105,5 +105,5 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 Potongan kode yang perlu disisipkan adalah
 ```
 ```
-dan hasil berkas gifnya adalah
+dan hasil berkas gifnya adalah \
 ![gif file from simulation wave stationary]()
