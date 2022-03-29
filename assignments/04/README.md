@@ -68,5 +68,13 @@ else:
 ```
 yang dapat diperoleh di <https://jakevdp.github.io/downloads/code/basic_animation.py>.
 
+## question 1
+Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/> atau pada pertemuan kuliah terkait.
+
+### answer 1
+Apakah sudah dibaca atau hadir pada kuliah?
+```
+```
+
 
 
