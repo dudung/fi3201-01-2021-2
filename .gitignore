@@ -1,7 +1,10 @@
 # Ignore this file or folder below
 .vscode
 
-exercises/_soal2020/
+exercises/:
+_quiz1
+_soal2020/
+_UTS
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
