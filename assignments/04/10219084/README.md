@@ -99,30 +99,34 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 Persamaan gelombang merambat ke kanan
 <!-- $$
 \color{#fafafa}
-\pagecolor{#333}
 y(x) = A sin(kx - \omega t + \phi)
 $$ --> 
 
-<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0A%5Cpagecolor%7B%23333%7D%0D%0Ay(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D"></div>
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D"></div>
 
 
 untuk &lambda; = 2m dan T = 2s, maka
 <!-- $$
-\color{#4078c0}
+\color{#fafafa}
 k = \frac{2 \pi}{\lambda} = \frac{2 \pi}{2} = \pi
 $$ --> 
 
-<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%234078c0%7D%0D%0Ak%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B%5Clambda%7D%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B2%7D%20%3D%20%5Cpi%0D"></div>
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ak%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B%5Clambda%7D%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B2%7D%20%3D%20%5Cpi%0D"></div>
 
-$$
-\color{#4078c0}
+<!-- $$
+\color{#fafafa}
 \omega = \frac{2 \pi}{T} = \frac{2 \pi}{2} = \pi
-$$
+$$ --> 
+
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0A%5Comega%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7BT%7D%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B2%7D%20%3D%20%5Cpi%0D"></div>
 
 untuk &Phi; = 0, diperoleh
-$$
+<!-- $$
+\color{#fafafa}
 y(x) = A sin(\pi x - \pi t + \phi)
-$$
+$$ --> 
+
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x)%20%3D%20A%20sin(%5Cpi%20x%20-%20%5Cpi%20t%20%2B%20%5Cphi)%0D"></div>
 
 
 Potongan kode yang perlu disisipkan adalah
@@ -163,14 +167,20 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 3
 Persamaan gelombang merambat ke kiri
-$$
+<!-- $$
+\color{#fafafa}
 y(x) = A sin(kx + \omega t + \phi)
-$$
+$$ --> 
+
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x)%20%3D%20A%20sin(kx%20%2B%20%5Comega%20t%20%2B%20%5Cphi)%0D"></div>
 
 Untuk &lambda; = 2m, T = 2s, dan &Phi; = 0, diperoleh
-$$
+<!-- $$
+\color{#fafafa}
 y(x) = A sin(\pi x + \pi t + \phi)
-$$
+$$ --> 
+
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x)%20%3D%20A%20sin(%5Cpi%20x%20%2B%20%5Cpi%20t%20%2B%20%5Cphi)%0D"></div>
 
 Potongan kode yang perlu disisipkan adalah
 ```
@@ -193,14 +203,20 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 
 ### answer 4
 Persamaan gelombang stasioner
-$$
+<!-- $$
+\color{#fafafa}
 y(x,t) = B sin(kx) cos(\omega t - \phi)
-$$
+$$ --> 
+
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x%2Ct)%20%3D%20B%20sin(kx)%20cos(%5Comega%20t%20-%20%5Cphi)%0D"></div>
 
 Untuk &lambda; = 2m, T = 2s, dan &Phi; = 0, diperoleh
-$$
+<!-- $$
+\color{#fafafa}
 y(x,t) = B sin(\pi x) cos(\pi t)
-$$
+$$ --> 
+
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x%2Ct)%20%3D%20B%20sin(%5Cpi%20x)%20cos(%5Cpi%20t)%0D"></div>
 
 Potongan kode yang perlu disisipkan adalah
 ```
