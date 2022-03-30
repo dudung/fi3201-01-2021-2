@@ -98,16 +98,13 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Persamaan gelombang merambat ke kanan
 <!-- $$
-\color{#fafafa} \pagecolor{#333}
+\color{#fafafa}
+\pagecolor{#333}
 y(x) = A sin(kx - \omega t + \phi)
 $$ --> 
 
-<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%20%5Cpagecolor%7B%23333%7D%0D%0Ay(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D"></div>
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0A%5Cpagecolor%7B%23333%7D%0D%0Ay(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D"></div>
 
-<!-- 
-<div align="center"><img style="background-color: white, color: black" src="https://render.githubusercontent.com/render/math?math=\color{black}y(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D#gh-light-mode-only"></div>
-<div align="center"><img style="background-color: white, color: black" src="https://render.githubusercontent.com/render/math?math=\color{white}y(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D#gh-dark-mode-only"></div>
---> 
 
 untuk &lambda; = 2m dan T = 2s, maka
 <!-- $$
