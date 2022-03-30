@@ -109,7 +109,7 @@ untuk &lambda; = 2m dan T = 2s, maka
 k = \frac{2 \pi}{\lambda} = \frac{2 \pi}{2} = \pi
 $$ --> 
 
-<div align="center"><img style="background-color: grey, color: black" src="https://render.githubusercontent.com/render/math?math=k%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B%5Clambda%7D%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B2%7D%20%3D%20%5Cpi%0D"></div>
+<div align="center"><img style="background-color: black, color: #3776ab" src="https://render.githubusercontent.com/render/math?math=k%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B%5Clambda%7D%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B2%7D%20%3D%20%5Cpi%0D"></div>
 
 $$
 \omega = \frac{2 \pi}{T} = \frac{2 \pi}{2} = \pi
