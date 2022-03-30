@@ -98,6 +98,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Persamaan gelombang merambat ke kanan
 <!-- $$
+\color{#3776ab}
 y(x) = A sin(kx - \omega t + \phi)
 $$ --> 
 
@@ -106,10 +107,11 @@ $$ -->
 
 untuk &lambda; = 2m dan T = 2s, maka
 <!-- $$
+\color{#black} \pagecolor{white}
 k = \frac{2 \pi}{\lambda} = \frac{2 \pi}{2} = \pi
 $$ --> 
 
-<div align="center"><img style="background-color: black, color: #3776ab" src="https://render.githubusercontent.com/render/math?math=k%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B%5Clambda%7D%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B2%7D%20%3D%20%5Cpi%0D"></div>
+<div align="center"><img style="background-color: white, color: black" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%233776ab%7D%0D%0Ak%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B%5Clambda%7D%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B2%7D%20%3D%20%5Cpi%0D"></div>
 
 $$
 \omega = \frac{2 \pi}{T} = \frac{2 \pi}{2} = \pi
