@@ -101,13 +101,16 @@ Persamaan gelombang merambat ke kanan
 y(x) = A sin(kx - \omega t + \phi)
 $$ --> 
 
-<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=\color{black}y(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D#gh-light-mode-only"></div>
-<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=\color{white}y(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D#gh-dark-mode-only"></div>
+<div align="center"><img style="background-color: white, color: black" src="https://render.githubusercontent.com/render/math?math=\color{black}y(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D#gh-light-mode-only"></div>
+<div align="center"><img style="background-color: white, color: black" src="https://render.githubusercontent.com/render/math?math=\color{white}y(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D#gh-dark-mode-only"></div>
 
 untuk &lambda; = 2m dan T = 2s, maka
-$$
+<!-- $$
 k = \frac{2 \pi}{\lambda} = \frac{2 \pi}{2} = \pi
-$$
+$$ --> 
+
+<div align="center"><img style="background-color: grey, color: black" src="https://render.githubusercontent.com/render/math?math=k%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B%5Clambda%7D%20%3D%20%5Cfrac%7B2%20%5Cpi%7D%7B2%7D%20%3D%20%5Cpi%0D"></div>
+
 $$
 \omega = \frac{2 \pi}{T} = \frac{2 \pi}{2} = \pi
 $$
