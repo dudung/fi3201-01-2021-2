@@ -97,9 +97,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 2
 Persamaan gelombang merambat ke kanan
-$$
+<!-- $$
 y(x) = A sin(kx - \omega t + \phi)
-$$
+$$ --> 
+<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=y(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D"></div>
 
 untuk &lambda; = 2m dan T = 2s, maka
 $$
