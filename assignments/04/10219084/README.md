@@ -100,7 +100,8 @@ Persamaan gelombang merambat ke kanan
 <!-- $$
 y(x) = A sin(kx - \omega t + \phi)
 $$ --> 
-<div align="center"><img style="background: white; color: black" src="svg\5GBoI0sNFK.svg"></div>
+
+<div align="center"><img style="background-color: white; color: black" src="https://latex.codecogs.com/svg.latex?y(x)%20%3D%20A%20sin(kx%20-%20%5Comega%20t%20%2B%20%5Cphi)%0D"></div>
 
 untuk &lambda; = 2m dan T = 2s, maka
 $$
