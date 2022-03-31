@@ -123,10 +123,10 @@ $$ -->
 untuk &Phi; = 0, diperoleh
 <!-- $$
 \color{#fafafa}
-y(x) = A sin(\pi x - \pi t + \phi)
+y(x) = A sin(\pi x - \pi t)
 $$ --> 
 
-<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x)%20%3D%20A%20sin(%5Cpi%20x%20-%20%5Cpi%20t%20%2B%20%5Cphi)%0D"></div>
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x)%20%3D%20A%20sin(%5Cpi%20x%20-%20%5Cpi%20t)%0D"></div>
 
 
 Potongan kode yang perlu disisipkan adalah
@@ -177,10 +177,10 @@ $$ -->
 Untuk &lambda; = 2m, T = 2s, dan &Phi; = 0, diperoleh
 <!-- $$
 \color{#fafafa}
-y(x) = A sin(\pi x + \pi t + \phi)
+y(x) = A sin(\pi x + \pi t +)
 $$ --> 
 
-<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x)%20%3D%20A%20sin(%5Cpi%20x%20%2B%20%5Cpi%20t%20%2B%20%5Cphi)%0D"></div>
+<div align="center"><img style="" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7B%23fafafa%7D%0D%0Ay(x)%20%3D%20A%20sin(%5Cpi%20x%20%2B%20%5Cpi%20t)%0D"></div>
 
 Potongan kode yang perlu disisipkan adalah
 ```
