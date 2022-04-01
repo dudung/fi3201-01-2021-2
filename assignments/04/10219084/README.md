@@ -255,4 +255,4 @@ Berikut adalah visualisasi persamaan gelombang menggunakan geogebra.
 
 <br>
 
-<iframe src="https://www.desmos.com/calculator/3g0wpmfew8?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+[Geogebra](https://www.desmos.com/calculator/3g0wpmfew8)
