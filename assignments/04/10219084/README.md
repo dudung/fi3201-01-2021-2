@@ -5,6 +5,8 @@
 - [Question 2](#q2)
 - [Question 3](#q3)
 - [Question 4](#q4)
+- [Geogebra](#geogebra)
+
 <br>
 <br>
 
@@ -133,8 +135,8 @@ Potongan kode yang perlu disisipkan adalah
 ```py
 # definisikan y di funsi animate(i)
 def animate(i):
-    x = np.linspace(0, 2, 1000)
-    y = np.sin(2 * np.pi * (np.pi*x - np.pi*i))     # move to the right
+    x = np.linspace(0, 8, 1000)
+    y = np.sin(np.pi*x - np.pi*i))     # move to the right
     line.set_data(x, y)
     return line,
 
@@ -158,6 +160,10 @@ File program dapat dilihat [di sini.](q2_right.py)
 
 Hasil berkas gifnya adalah \
 ![gif file from simulation wave to right](wave_right.gif)
+
+> Pada animasi di atas, gelombang merambat ke kanan sejauh &pi;/2 untuk setiap interval. 
+    Gelombang akan lebih terlihat merambat ke kanan jika periodenya besar. 
+    Untuk T = 2, sekilas seperti stasioner.
 
 <br>
 <br>
@@ -187,13 +193,17 @@ Potongan kode yang perlu disisipkan adalah
 # dilakukan hal sama seperti pada question2
 # tapi, definisi y yang digunakan
 
-y = np.sin(2 * np.pi * (np.pi*x + np.pi*i))     # move to the left
+y = np.sin(np.pi*x + np.pi*i)     # move to the left
 
 ```
 File program dapat dilihat [di sini.](q3_left.py)
 
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left](wave_left.gif)
+
+> Pada animasi di atas, gelombang merambat ke kiri sejauh &pi;/2 untuk setiap interval. 
+    Gelombang akan lebih terlihat merambat ke kiri jika periodenya besar. 
+    Untuk T = 2, sekilas seperti stasioner.
 
 <br>
 <br>
@@ -228,3 +238,21 @@ File program dapat dilihat [di sini.](q4_stationer.py)
 
 Hasil berkas gifnya adalah \
 ![gif file from simulation wave stationary](wave_stationer.gif)
+
+<br>
+<br>
+
+## Geogebra <a name="geogebra"></a>
+
+Berikut adalah visualisasi persamaan gelombang menggunakan geogebra.
+
+**Keterangan:**
+| Variabel  |           |
+|:---------:|:---------:|
+| A, B      | amplitudo |
+| P         | panjang gelombang |
+| T         | periode   |
+
+<br>
+
+<iframe src="https://www.desmos.com/calculator/3g0wpmfew8?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
