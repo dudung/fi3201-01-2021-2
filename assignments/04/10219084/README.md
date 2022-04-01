@@ -161,7 +161,7 @@ File program dapat dilihat [di sini.](q2_right.py)
 Hasil berkas gifnya adalah \
 ![gif file from simulation wave to right](wave_right.gif)
 
-> Pada animasi di atas, gelombang merambat ke kanan sejauh &pi;/2 untuk setiap interval. 
+> Pada animasi di atas, gelombang merambat ke kanan sejauh &pi; untuk setiap interval. 
     Gelombang akan lebih terlihat merambat ke kanan jika periodenya besar. 
     Untuk T = 2, sekilas seperti stasioner.
 
@@ -201,7 +201,7 @@ File program dapat dilihat [di sini.](q3_left.py)
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left](wave_left.gif)
 
-> Pada animasi di atas, gelombang merambat ke kiri sejauh &pi;/2 untuk setiap interval. 
+> Pada animasi di atas, gelombang merambat ke kiri sejauh &pi; untuk setiap interval. 
     Gelombang akan lebih terlihat merambat ke kiri jika periodenya besar. 
     Untuk T = 2, sekilas seperti stasioner.
 
