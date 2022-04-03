@@ -101,7 +101,7 @@ y = np.sin(2 * np.pi * (0.5 * x + 0.005 * i))
 ```
 dengan &lambda; = 2 m dan Periode T = 2 s = 200 centisecond
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](https://github.com/anawwaaf/fi3201-01-2021-2/blob/main/assignments/04/10215075/assignment04-03.gif)
 
 
 ## question 4
@@ -115,4 +115,4 @@ y = np.sin(2 * np.pi * 0.5 * x) * np.cos(2 * np.pi * 0.005 * i)
 dengan &lambda; = 2 m dan Periode T = 2 s = 200 centisecond
 
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](https://github.com/anawwaaf/fi3201-01-2021-2/blob/main/assignments/04/10215075/assignment04-04.gif)
