@@ -23,7 +23,7 @@ def init():
 # animation function.  This is called sequentially
 def animate(i):
     x = np.linspace(0, 2, 1000)
-    y = np.sin(2 * np.pi * 0.5 * x) * np.cos(2 * np.pi * 0.005 * i) #&lambda; = 2 m dan Periode T = 2 s = 200 centisecond
+    y = np.sin(2 * np.pi * (0.5 * x + 0.005 * i)) #&lambda; = 2 m dan Periode T = 2 s = 200 centisecond
     line.set_data(x, y)
     return line,
 
@@ -48,7 +48,7 @@ option = 0
 
 if option == 0:
 	writergif = animation.PillowWriter(fps=30)
-	anim.save('assignment04-04.gif', writer=writergif)
+	anim.save('assignment04-03.gif', writer=writergif)
 # anim.save('basic_animation.mp4', fps=30, extra_args=['-vcodec', 'libx264'])
 else:
 	plt.show()
