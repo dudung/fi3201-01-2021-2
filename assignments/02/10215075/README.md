@@ -13,4 +13,4 @@ Hello world! 2 time
 Hello world! 3 time
 Hello world! 4 time
 ```
-Tested at OneCompiler [3xr4h4xd6](https://onecompiler.com/python/3xr4h4xd6)
+Tested with Spyder compiler ![alt text](https://github.com/anawwaaf/fi3201-01-2021-2/blob/main/assignments/02/10215075/jawaban-02.png)
