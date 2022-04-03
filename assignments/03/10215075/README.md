@@ -80,7 +80,7 @@ Kode di atas berfungsi untuk
   print(n, ':', s, sep='')
 ``` 
 + `for` digunakan untuk looping dan `print` digunakan untuk mencetak. 
-+ Dalam kode ini `for x in NIM:` looping dilakukan sebanyak x kali, yaitu sebanyak angka yang ada pada NIM. Karena NIM saya 10215075 maka fungsi akan looping sebanyak 8 kali. `n = int(x, 10)` untuk definisi variabel n sebagai bilangan integer x (0 hingga 9) dimana akan menghasilkan angka pertama dari NIM saya yaitu 1 pada loop pertama. `s = ''` untuk definisi variabel s sebagai kosong tipe string. 
++ Dalam kode ini `for x in NIM:` looping dilakukan sebanyak x kali, yaitu sebanyak angka yang ada pada NIM. Karena NIM saya 10215075 maka fungsi akan looping sebanyak 8 kali. `n = int(x, 10)` untuk definisi variabel n sebagai bilangan integer x (0 hingga 9) dimana berupa tiap angka NIM saya. loop pertama 1, loop kedua 0, loop ketiga 2, dan seterusnya. `s = ''` untuk definisi variabel s sebagai kosong tipe string. 
 + kemudian `for i in range(n):` looping sebanyak i, yaitu sebanyak nilai n. `s += char` untuk definisi s sebagai variabel char sebanyak n. pada soal 1, karena variabel char tidak terdefinisi maka hasil akan eror. Pada soal 2, `s += char1` definisi variabel s sebagai char1 yaitu &#x25FB; sebanyak n. Pada soal 3, `s += char2` definisi variabel s sebagai char2 yaitu &#x25FC; sebanyak n.
 + `print(n, ':', s, sep='')` untuk mencetak argumen-argumen didalamnya dan `sep=''` digunakan agar argumen-argumen dicetak dengan separator, karena diisi kosong maka argumen dicetak tanpa separator. Setelah dicetak maka akan pindah baris baru dan setelahnya akan melakukan looping kedua yaitu dengan mencetak angka kedua dari NIM beserta kotak sebanyak angkanya dan seterusnya sampai mencetak angka terakhir dari NIM.
 
