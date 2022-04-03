@@ -70,15 +70,15 @@ Kode di atas berfungsi untuk
 + `char1 = html.unescape('&#x25FB;')` untuk mendefinisikan variabel char1 sebagai suatu objek dari file html yaitu &#x25FB; (kotak dengan isi kosong)
 + `char2 = html.unescape('&#x25FC;')` untuk mendefinisikan variabel char2 sebagai suatu objek dari file html yaitu &#x25FC; (kotak berisi)
 + perintah `unescape()` digunakan untuk decode url yang ter-enkripsi ke bentuk semula. Dalam kode ini, `unescape('&#x25FB;')` mendecode `&#x25FB;` menjadi &#x25FB; sedangkan `unescape('&#x25FC;')` mendecode `&#x25FC;` menjadi &#x25FC; 
-+ `NIM = '10298345'` untuk definisi variabel NIM sebagai `10298345`, yang nantinya diganti menjadi dengan data NIM masing-masing. contoh pada saya sehingga variabel NIM didefinisikan sebagai 10215075
-+  ```python
++ `NIM = '10298345'` untuk definisi variabel NIM sebagai `10298345`, yang nantinya diganti menjadi dengan data NIM masing-masing. contoh pada saya sehingga variabel NIM didefinisikan sebagai 10215075.
+```python
   for x in NIM:
   n = int(x, 10)
   s = ''
   for i in range(n):
     s += char
   print(n, ':', s, sep='')
-  ``` 
+``` 
 + `for` digunakan untuk looping dan `print` digunakan untuk mencetak. 
 + Dalam kode ini `for x in NIM:` looping dilakukan sebanyak x kali, yaitu sebanyak angka yang ada pada NIM. Karena NIM saya 10215075 maka fungsi akan looping sebanyak 8 kali. `n = int(x, 10)` untuk definisi variabel n sebagai bilangan integer x (0 hingga 9) dimana akan menghasilkan angka pertama dari NIM saya yaitu 1 pada loop pertama. `s = ''` untuk definisi variabel s sebagai kosong tipe string. 
 + kemudian `for i in range(n):` looping sebanyak i, yaitu sebanyak nilai n. `s += char` untuk definisi s sebagai variabel char sebanyak n. pada soal 1, karena variabel char tidak terdefinisi maka hasil akan eror. Pada soal 2, `s += char1` definisi variabel s sebagai char1 yaitu &#x25FB; sebanyak n. Begitu pula pada soal 3, dengan s sebagai char2 yaitu &#x25FC;.
