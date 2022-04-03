@@ -88,7 +88,7 @@ y = np.sin(2 * np.pi * (0.5 * x - 0.005 * i))
 dengan &lambda; = 2 m dan Periode T = 2 s = 200 centisecond
 
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](https://github.com/anawwaaf/fi3201-01-2021-2/blob/main/assignments/04/10215075/assignment04-02.gif)
 
 
 ## question 3
