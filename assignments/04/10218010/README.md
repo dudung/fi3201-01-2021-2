@@ -112,4 +112,4 @@ y = np.sin(2 * np.pi * x * 0.5) * np.cos(2 * np.pi * 0.5 * i) # Stasioner T = 2,
 dan hasil berkas gifnya adalah \
 ![alt text](https://github.com/realdhikaarya/fi3201-01-2021-2/blob/main/assignments/04/10218010/Jawaban-4.gif)
 
-Dibuktikan pada kode PR-4.ipynb (https://github.com/realdhikaarya/fi3201-01-2021-2/blob/main/assignments/04/10218010/Jawaban-4.gif)
+Dibuktikan pada kode PR-4.ipynb (https://github.com/realdhikaarya/fi3201-01-2021-2/blob/main/assignments/04/10218010/PR-4.ipynb)
