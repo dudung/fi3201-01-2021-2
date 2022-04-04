@@ -83,7 +83,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin(2 * np.pi * (x * 0.5 - 0.5 * i)) # Ke kanan T = 2, Lambda = 2
+y = np.sin(2 * np.pi * (x * 0.5 - 0.5 *0.01 * i)) # Ke kanan T = 2, Lambda = 2
 ```
 dan hasil berkas gifnya adalah \
 ![10218010/Jawaban-2.gif]()
@@ -95,7 +95,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin(2 * np.pi * (x * 0.5 + 0.5 * i)) # Ke kiri T = 2, Lambda = 2
+y = np.sin(2 * np.pi * (x * 0.5 + 0.5 * 0.01 * i)) # Ke kiri T = 2, Lambda = 2
 ```
 dan hasil berkas gifnya adalah \
 ![10218010/Jawaban-3.gif]()
@@ -107,7 +107,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin(2 * np.pi * x * 0.5) * np.cos(2 * np.pi * 0.5 * i) # Stasioner T = 2, Lambda = 2
+y = np.sin(2 * np.pi * x * 0.5) * np.cos(2 * np.pi * 0.5 *0.01 * i) # Stasioner T = 2, Lambda = 2
 ```
 dan hasil berkas gifnya adalah \
 ![10218010/Jawaban-4.gif]()
