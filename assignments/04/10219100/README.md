@@ -74,6 +74,7 @@ Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/>
 ### answer 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 ```
+sudah
 ```
 
 ## question 2
@@ -82,6 +83,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(np.pi * x - np.pi * t)
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to right]()
