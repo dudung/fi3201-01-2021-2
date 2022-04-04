@@ -83,10 +83,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
-y =  y = np.sin(2 * np.pi * (0.5*x - 0.5*i))
+y = np.sin(2 * np.pi * (0.5*x - 0.5*i))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right](arah_ke_kana.gif)
+![gif file from simulation wave to right](arah_ke_kanan.gif)
 
 
 ## question 3
