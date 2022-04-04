@@ -86,7 +86,7 @@ Potongan kode yang perlu disisipkan adalah
  y = np.sin(2 * np.pi * (x/2 - i/2))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right](Gelombang merambat ke kanan.gif)
+![gif file from simulation wave to right](Gelombangmerambatkekanan.gif)
 
 
 ## question 3
@@ -98,7 +98,7 @@ Potongan kode yang perlu disisipkan adalah
  y = np.sin(2 * np.pi * (x/2 + i/2))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left](Gelombang merambat ke kiri.gif)
+![gif file from simulation wave to left](Gelombangmerambatkekiri.gif)
 
 
 ## question 4
@@ -110,4 +110,4 @@ Potongan kode yang perlu disisipkan adalah
   y = np.sin(2 * np.pi * x/2) * np.cos(2 * np.pi * i/2)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary](Gelombang stasioner.gif)
+![gif file from simulation wave stationary](Gelombangstasioner.gif)
