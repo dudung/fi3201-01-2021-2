@@ -86,7 +86,7 @@ Potongan kode yang perlu disisipkan adalah
 y =  y = np.sin(2 * np.pi * (0.5*x - 0.5*i))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](arah_ke_kana.gif)
 
 
 ## question 3
