@@ -83,10 +83,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin(np.pi * x - np.pi * t)
+y = np.sin(np.pi * x - np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![Merambat ke Kanan]()
 
 
 ## question 3
@@ -95,9 +95,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(np.pi * x + np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![Merambat ke Kiri]()
 
 
 ## question 4
@@ -106,6 +107,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
+ y = np.sin(np.pi * x) * np.cos(np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![Stasioner]()
