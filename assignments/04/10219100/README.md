@@ -86,7 +86,7 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin(np.pi * x - np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
-![Merambat ke Kanan](Merambat ke Kanan.gif)
+![Merambat ke Kanan](https://github.com/Ryandwigiantara/fi3201-01-2021-2/blob/main/assignments/04/10219100/Merambat%20ke%20Kanan.gif)
 
 
 ## question 3
@@ -98,7 +98,7 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin(np.pi * x + np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
-![Merambat ke Kiri](Merambat ke Kiri.gif)
+![Merambat ke Kiri](https://github.com/Ryandwigiantara/fi3201-01-2021-2/blob/main/assignments/04/10219100/Merambat%20ke%20Kiri.gif)
 
 
 ## question 4
