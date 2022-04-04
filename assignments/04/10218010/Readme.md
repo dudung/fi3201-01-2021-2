@@ -1,5 +1,7 @@
 # assignment 04
-##Tugas ini telah direvisi setelah dievaluasi beberapa jam setelah dikumpulkan di edunex
+##Tugas ini telah direvisi setelah dievaluasi beberapa jam setelah dikumpulkan di edunex<br/>
+Bukti izin dari revisi tugas ini adalah sebagai berikut
+![alt_text](https://github.com/realdhikaarya/fi3201-01-2021-2/blob/main/assignments/04/10218010/Captured.PNG)
 Terdapat kode Python berikut
 
 ```python
