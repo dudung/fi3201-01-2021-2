@@ -110,4 +110,4 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin(2 * np.pi * x/2) * np.cos(2 * np.pi * 0.01 * i/2)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](stasioner.gif)
