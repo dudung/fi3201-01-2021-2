@@ -83,9 +83,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
+ y = np.sin(2 * np.pi * (x/2 - i/2))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](Gelombang merambat ke kanan.gif)
 
 
 ## question 3
@@ -94,9 +95,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
+ y = np.sin(2 * np.pi * (x/2 + i/2))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](Gelombang merambat ke kiri.gif)
 
 
 ## question 4
@@ -105,6 +107,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
+  y = np.sin(2 * np.pi * x/2) * np.cos(2 * np.pi * i/2)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](Gelombang stasioner.gif)
