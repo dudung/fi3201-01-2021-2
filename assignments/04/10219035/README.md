@@ -84,7 +84,7 @@ Potongan kode yang perlu disisipkan adalah
 ```
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](kanan.gif)
 
 
 ## question 3
