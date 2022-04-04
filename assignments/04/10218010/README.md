@@ -86,7 +86,7 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin(2 * np.pi * (x * 0.5 - 0.5 * i)) # Ke kanan T = 2, Lambda = 2
 ```
 dan hasil berkas gifnya adalah \
-![Jawaban-2.gif]()
+![alt text](https://github.com/realdhikaarya/fi3201-01-2021-2/blob/main/assignments/04/10218010/Jawaban-2.gif)
 
 
 ## question 3
@@ -98,7 +98,7 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin(2 * np.pi * (x * 0.5 + 0.5 * i)) # Ke kiri T = 2, Lambda = 2
 ```
 dan hasil berkas gifnya adalah \
-![Jawaban-3.gif]()
+![alt text](https://github.com/realdhikaarya/fi3201-01-2021-2/blob/main/assignments/04/10218010/Jawaban-3.gif)
 
 
 ## question 4
@@ -110,4 +110,4 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin(2 * np.pi * x * 0.5) * np.cos(2 * np.pi * 0.5 * i) # Stasioner T = 2, Lambda = 2
 ```
 dan hasil berkas gifnya adalah \
-![Jawaban-4.gif]()
+![alt text](https://github.com/realdhikaarya/fi3201-01-2021-2/blob/main/assignments/04/10218010/Jawaban-4.gif)
