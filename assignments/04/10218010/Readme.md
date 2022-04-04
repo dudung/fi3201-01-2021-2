@@ -1,4 +1,5 @@
 # assignment 04
+##Tugas ini telah direvisi setelah dievaluasi beberapa jam setelah dikumpulkan di edunex
 Terdapat kode Python berikut
 
 ```python
