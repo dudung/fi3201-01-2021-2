@@ -5,4 +5,4 @@
 4. Unggah ke GitHub Anda dan berikan link pada berkas ini pada bagian jawaban.
 
 ## answer
-Tautan ke berkas Notebook Python saya adalah [Ahmad_Nawwaaf.ipynb](https://github.com/anawwaaf/fi3201-01-2021-2/blob/main/assignments/05/10215075/Ahmad_Nawwaaf.ipynb).
+Tautan ke berkas Notebook Python saya adalah [10215075_Ahmad_Nawwaaf_Work_of_Friction.ipynb](https://github.com/anawwaaf/fi3201-01-2021-2/blob/main/assignments/05/10215075/10215075_Ahmad_Nawwaaf_Work_of_Friction.ipynb).
