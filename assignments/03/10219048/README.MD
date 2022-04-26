@@ -68,6 +68,4 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ ..
 + Kode di atas berfungsi untuk merepresentasikan angka dengan jumlah karakter "◻" atau "◼".
-+ ..
