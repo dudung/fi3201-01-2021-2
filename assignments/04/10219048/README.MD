@@ -74,7 +74,7 @@ Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/>
 ### answer 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 ```
-Hadir dan sudah dibaca
+Ya, Saya sudah melakukannya dan sudah hadi pada kuliat tersebut
 ```
 
 ## question 2
