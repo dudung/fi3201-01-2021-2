@@ -1,10 +1,13 @@
 # Ignore this file or folder below
 .vscode
+.gitignore
 
 exercises/:
 _quiz1
 _soal2020/
 _UTS
+
+uts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
